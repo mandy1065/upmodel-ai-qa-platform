@@ -1,7 +1,7 @@
-# 🛡️ UpModel — AI QA Evaluation Platform
+# 🛡️ AI QA Evaluation Platform
 
 > **Protecting AI products from hallucination, drift & silent failure.**
-> Built by [UpModel](https://www.upmodel.app) — Canada's AI QA & LLM Evaluation Specialists.
+> Built by [Canada's AI QA & LLM Evaluation Specialists.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
 ![DeepEval](https://img.shields.io/badge/DeepEval-4.1-green?style=flat-square)
@@ -58,7 +58,7 @@ Upload any AI-facing document and this platform automatically:
 
 ---
 
-## 🏆 Case Study — UpModel Platform
+## 🏆 Case Study —   Platform
 
 **Context:** AI Career Intelligence Platform built on RAG + Claude API — Career Gap Analyzer & Resume Scanner tools.
 
@@ -117,8 +117,8 @@ Upload any AI-facing document and this platform automatically:
 
 ```bash
 # 1. Clone
-git clone https://github.com/yourusername/upmodel-ai-qa-platform
-cd upmodel-ai-qa-platform
+git clone https://github.com/yourusername/ -ai-qa-platform
+cd  -ai-qa-platform
 
 # 2. Virtual environment
 python -m venv venv
@@ -141,7 +141,7 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```
-upmodel-ai-qa-platform/
+ -ai-qa-platform/
 │
 ├── app.py                 ← Streamlit web UI
 ├── requirements.txt       ← Pinned dependencies
@@ -183,7 +183,7 @@ upmodel-ai-qa-platform/
 
 ---
 
-## 💼 About UpModel
+## 💼 About  
 
 We are Canada-based AI QA specialists helping companies protect their AI products.
 
@@ -195,9 +195,6 @@ We are Canada-based AI QA specialists helping companies protect their AI product
 | **Timeline** | 2–4 weeks | Monthly |
 | **Includes** | Hallucination scoring, RAG assessment, prompt injection scan, fix recommendations | Monthly eval reports, release QA, Slack support, quarterly strategy call |
 
-**Book a free 30-minute discovery call:**
-🌐 [www.upmodel.app](https://www.upmodel.app)
-📧 Contact via website
 🔗 [Manjinder Dayal — LinkedIn](https://linkedin.com)
 
 ---
@@ -208,4 +205,4 @@ MIT License — open source, free to use and adapt.
 
 ---
 
-*Built with ❤️ by UpModel — AI QA & LLM Evaluation Specialists, Ontario, Canada.*
+*Built with ❤️ by AI QA & LLM Evaluation Specialists, Ontario, Canada.*
